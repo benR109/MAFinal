@@ -1,0 +1,13 @@
+#bannerimage {
+    width: 100%;
+    background-image: url("../images/leroyfront.jpg");
+    height: 405px;
+    background-position: center;
+}
+
+header {
+    background-color: #80adcb; 
+    color: #005b96;
+    padding: 30px;
+    text-align: center;
+}

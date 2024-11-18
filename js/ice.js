@@ -37,12 +37,12 @@ function truth() {
 
    
     if (truth1Selected) {
-        truthAnswer.innerHTML = "Sorry" + fname + ", you are wrong, just a little bit older than you think";
+        truthAnswer.innerHTML = "Sorry " + fname + ", you are wrong, just a little bit older than you think";
     }
     else if (lie1Selected) {
-        truthAnswer.innerHTML = "Congragulations" + fname + ", you are correct!!";
+        truthAnswer.innerHTML = "Congragulations " + fname + ", you are correct!!";
     }
     else if (truth2Selected) {
-        truthAnswer.innerHTML = "Sorry" + fname + ", you are wrong, just a little bit younger than you think";
+        truthAnswer.innerHTML = "Sorry " + fname + ", you are wrong, just a little bit younger than you think";
     }
 }

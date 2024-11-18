@@ -75,3 +75,8 @@ footer {
     margin-top: 20px;
     border-style: solid;
 }
+
+.funfont {
+    font-family: "gelato-fresco-variable", sans-serif;
+    font-variation-settings: "wght" 400;
+}

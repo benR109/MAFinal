@@ -5,6 +5,9 @@
     background-position: center;
 }
 
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 header {
     background-color: #80adcb; 
     color: #005b96;
@@ -33,31 +36,23 @@ header {
 .maincontent-section {
     grid-column: 1 / span 2;
     grid-row: 1;
-    border-color: rgb(104, 175, 237);
-    border-style: solid;
 }
 .image1-section {
     grid-column: 3 / span 1;
     grid-row: 1;
-    background-color: #4A90E2;
-    border-color: rgb(104, 175, 237);
-    border-style: solid;
+   
 }
 
 .maincontent2-section {
     grid-column: 2 / span 2;
     grid-row: 2;
-    background-color: #4A90E2;
-    border-color: rgb(104, 175, 237);
-    border-style: solid;
+    
 }
 
 .image2-section {
     grid-column: 1 / span 1;
     grid-row: 2;
-    background-color: #4A90E2;
-    border-color: rgb(104, 175, 237);
-    border-style: solid;
+
 }
 
 .bottomvid {
@@ -68,12 +63,12 @@ header {
     border-style: dashed;
 }
 footer {
-    background-color: #4A90E2; 
-    color: #fff;
-    text-align: center;
+    background-color: lightskyblue;
+    text-align:  center;
     padding: 15px;
     margin-top: 20px;
     border-style: solid;
+    border-color: black;
 }
 
 .funfont {
